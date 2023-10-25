@@ -1,6 +1,7 @@
 #Calculatrice simple : Écrivez un programme qui prend deux nombres 
 #et effectue les opérations de base : addition, soustraction, multiplication, division.
 
+#permet d'importer des paramètres
 import sys
 #initialisation des variables passées
 nombre1 = int(sys.argv[1])
